@@ -14,7 +14,7 @@ The primary goal of this notebook is to transform a dataset provided as a CSV fi
 
 To handle large datasets efficiently, the following techniques are used:
 
-1.**Data Processing in chunks**: The large dataset is divided into appropriate chunks for better memory management.
+1. **Data Processing in chunks**: The large dataset is divided into appropriate chunks for better memory management.
 
 2. **Optimized Data Types**: Appropriate data types are used for storing data based on the values in each column to reduce memory usage.
    
